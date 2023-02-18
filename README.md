@@ -9,12 +9,12 @@
 </div>
 
 
-### DESCRIPTION
+## DESCRIPTION
 
 A wrapper around youtube API v3: _pytubev3_ is a genuine, lightweight, dependency-free Python library to simplify Youtube Data API tasks.
 -   [https://developers.google.com/youtube/v3/docs/](https://developers.google.com/youtube/v3/docs/)
 
-### Actively soliciting contributors!
+## Actively soliciting contributors!
 
 Have ideas for how pytube can be improved? Feel free to open an issue or a pull request!
 Also looking forward for contributors to have fully functional wrapper.
