@@ -44,7 +44,7 @@ from pytubev3 import Pytube
 import os
 
 #set API Key as environment variable
-# API_KEY = os.environ.get("YOUTUBE_DATA_API2")
+#API_KEY = os.environ.get("YOUTUBE_DATA_API2")
 #or
 API_KEY = "Enter Your API Key"
 pT = Pytube(API_KEY, region_code = "US", lang = "en")
