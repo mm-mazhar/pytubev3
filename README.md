@@ -43,10 +43,6 @@ The  YoutubeClient  class provides a set of methods for interacting with the You
 ##### Get Video Categories of a Region
 
 `API_KEY = "Enter Your API Key"
-
 pT = Pytube(API_KEY, region_code = "US", lang = "en")
-
 vid_cat = pT.country_video_cat()
-
 print(vid_cat)`
-
