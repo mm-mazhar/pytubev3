@@ -102,3 +102,13 @@ videoIds = ["sUg-XFx4xf0", "QCyz936VoYM"]
 videoDetails = pT.video_details(videoIds)
 print(videoDetails)
 ```
+## Development/Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: ` git commit -am 'Add Some Feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request.
+6. Email me at `mazqoty.01@gmail.com` because I do not check those messages often.
+
+## History
+* 1.0.0 - Initial Commit without tests 
