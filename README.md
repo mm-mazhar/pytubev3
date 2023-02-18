@@ -51,7 +51,7 @@ pT = Pytube(API_KEY, region_code = "US", lang = "en")
 
 ```
 
-## Features
+## Examples
 
 The  class provides a set of methods for interacting with the YouTube API. The methods include:
 
