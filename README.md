@@ -38,7 +38,6 @@ To install from PyPI with pip:
 ## USAGE
 
 Create an object
-
 ```
 from pytubev3 import Pytube
 import os
@@ -48,7 +47,6 @@ import os
 #or
 API_KEY = "Enter Your API Key"
 pT = Pytube(API_KEY, region_code = "US", lang = "en")
-
 ```
 
 ## Examples
@@ -56,10 +54,51 @@ pT = Pytube(API_KEY, region_code = "US", lang = "en")
 The  class provides a set of methods for interacting with the YouTube API. The methods include:
 
 ##### Get Video Categories of a Region
-
 ```
-from pytubev3 import Pytube
-
 vid_cat = pT.country_video_cat()
 print(vid_cat)
+```
+##### Search Youtube Channels by Keyword and Location (Latitude and Longitude)
+```
+channels = pT.chs_By_Keyword_Location(search_term = "Python", \
+									location_lat_long = "37.42307,-122.08427", \
+									location_radius = "10mi", required_results = 5, \
+									order_method = "relevance", \
+									published_after = "2010-01-01T00:00:00Z")
+
+print(channels)
+```
+
+##### Search Youtube Channels by Keyword and Region Code
+```
+pT = Pytube(API_KEY, region_code = "US", lang = "en")
+channels = pT.chs_By_Keyword_RegionCode(search_term = "Python", \
+						required_results = 5, order_method = "relevance", \
+						published_after = "2010-01-01T00:00:00Z")
+
+print(channels)
+```
+
+##### Get Channel's Stats By Using Channel IDs
+```
+pT = Pytube(API_KEY, region_code = "US", lang = "en")
+channelIDs = ["UCdgU4pljNproO0RQVbT5QKg", "UC4Xt-DUAapAtkfaWWkv4OAw"]
+channels_stat = pT.channels_stats(channelIDs)
+print(channels_stat)
+```
+
+##### Get Video IDs from Playlists by Using Playlist IDs
+```
+pT = Pytube(API_KEY, region_code = "US", lang = "en")
+playlist_ids = ["UUdgU4pljNproO0RQVbT5QKg"]
+videoIDs = pT.video_ids(playlist_ids)
+print(videoIDs)
+```
+
+###### Get Video Details by using Video IDs
+```
+pT = Pytube(API_KEY, region_code = "US", lang = "en")
+videoIds = ["sUg-XFx4xf0", "QCyz936VoYM"]
+videoDetails = pT.video_details(videoIds)
+print(videoDetails)
 ```
