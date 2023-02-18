@@ -61,10 +61,10 @@ print(vid_cat)
 ##### Search Youtube Channels by Keyword and Location (Latitude and Longitude)
 ```
 channels = pT.chs_By_Keyword_Location(search_term = "Python", \
-					location_lat_long = "37.42307,-122.08427", \
-					location_radius = "10mi", required_results = 5, \
-					order_method = "relevance", \
-					published_after = "2010-01-01T00:00:00Z")
+			location_lat_long = "37.42307,-122.08427", \
+			location_radius = "10mi", required_results = 5, \
+			order_method = "relevance", \
+			published_after = "2010-01-01T00:00:00Z")
 
 print(channels)
 ```
@@ -73,8 +73,8 @@ print(channels)
 ```
 pT = Pytube(API_KEY, region_code = "US", lang = "en")
 channels = pT.chs_By_Keyword_RegionCode(search_term = "Python", \
-					required_results = 5, order_method = "relevance", \
-					published_after = "2010-01-01T00:00:00Z")
+			required_results = 5, order_method = "relevance", \
+			published_after = "2010-01-01T00:00:00Z")
 
 print(channels)
 ```
