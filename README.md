@@ -37,16 +37,29 @@ To install from PyPI with pip:
 
 ## USAGE
 
-Create a youtube object  ` from youtube3 import YoutubeClient youtube =  YoutubeClient(<location  of your client_secrets.json>) `
+Create an object
+
+```
+from pytubev3 import Pytube
+import os
+
+#set API Key as environment variable
+# API_KEY = os.environ.get("YOUTUBE_DATA_API2")
+#or
+API_KEY = "Enter Your API Key"
+pT = Pytube(API_KEY, region_code = "US", lang = "en")
+
+```
 
 ## YOUTUBE CLEINT
 
-The  YoutubeClient  class provides a set of methods for interacting with the YouTube API. The methods include:
+The  class provides a set of methods for interacting with the YouTube API. The methods include:
 
 ##### Get Video Categories of a Region
 
-```API_KEY = "Enter Your API Key"
-pT = Pytube(API_KEY, region_code = "US", lang = "en")
+```
+from pytubev3 import Pytube
+
 vid_cat = pT.country_video_cat()
 print(vid_cat)
 ```
