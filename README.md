@@ -1,6 +1,6 @@
 # Pytubev3
 
-<p align="center">
+<p align="left">
 ![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=Python)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=flat-square)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=flat-square)
