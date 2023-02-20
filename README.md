@@ -13,9 +13,12 @@
 
 <div align="center">
 
-  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
-  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
-  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+  <a href="">![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=Python)</a>
+  <a href="">![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=flat-square)</a>
+  <a href="">![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=flat-square)</a>
+  <a href="">![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=flat-square)</a>
+  <a href="">![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=flat-square)</a>
+  
 
 </div>
 
