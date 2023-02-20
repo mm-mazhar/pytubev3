@@ -2,11 +2,11 @@
 
 <div align="center">
 
-  <a href="">![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=Python)</a>
-  <a href="">![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=flat-square)</a>
-  <a href="">![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=flat-square)</a>
-  <a href="">![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=flat-square)</a>
-  <a href="">![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=flat-square)</a>
+  <a href="#">![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=Python)</a>
+  <a href="#">![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=flat-square)</a>
+  <a href="#">![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=flat-square)</a>
+  <a href="#">![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=flat-square)</a>
+  <a href="https://pytubev3.readthedocs.io/en/latest/pytubev3.html">![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=flat-square)</a>
   
 
 </div>
@@ -15,7 +15,7 @@
 
   <a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=for-the-badge)</a>
   <a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
-  <a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)</a>
+  <a href="https://pytubev3.readthedocs.io/en/latest/pytubev3.html">![text](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)</a>
 
 </div>
 
