@@ -1,31 +1,14 @@
 # Pytubev3
 
+![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=Python)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=flat-square)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=flat-square)
+![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=flat-square)
+![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=flat-square)
+<a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=flat-square)</a>
+<a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)</a>
+<a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=flat-square)</a>
 
-<div align="center">
-  <a href="#">![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=Python)</a>
-  <a href="#">![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=for-the-badge)</a>
-  <a href="#">![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=for-the-badge)</a>
-  <a href="#">![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=for-the-badge)</a>
-  <a href="#">![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=for-the-badge)</a>
-</div>
-
-<div align="center">
-	<a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=for-the-badge)</a>
-  	<a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
-  	<a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)</a>
-</div>
-
-![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=Python)
-![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=for-the-badge)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=for-the-badge)
-![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=for-the-badge)
-![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=for-the-badge)
-
-<div align="center">
-<a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=for-the-badge)</a>
-<a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
-<a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)</a>
-</div>
 
 
 A wrapper around youtube API v3: _pytubev3_ is a genuine, lightweight, dependency-free Python library to simplify Youtube Data API tasks.
