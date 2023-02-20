@@ -1,5 +1,6 @@
 # Pytubev3
 
+<p align="center">
 ![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=Python)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=flat-square)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=flat-square)
@@ -8,6 +9,7 @@
 <a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=flat-square)</a>
 <a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub)</a>
 <a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=flat-square)</a>
+</p>
 
 
 
