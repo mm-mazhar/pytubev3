@@ -40,8 +40,7 @@ class Pytube:
         """_summary_
 
         Returns:
-            returns: List of Dictionaries, with 'Video_Category_ID' and 'Title' of the Categories in the required country
-            _type_: List
+            list: List of Dictionaries, with 'Video_Category_ID' and 'Title' of the Categories in the required country
         """
         
         country_video_Categories = []
@@ -85,8 +84,7 @@ class Pytube:
             published_after (str, optional): Indicates that the response should only contain resources created at or after the specified time. Defaults to "2010-01-01T00:00:00Z".
 
         Returns:
-            returns: List of Dictionaries, with 'Channel_ID' and ''Channel_Title' of the Videos in the required location (latitude and longitude)
-            _type_: List
+            list: List of Dictionaries, with 'Channel_ID' and ''Channel_Title' of the Videos in the required location (latitude and longitude)
         """
         
         print(f"Searching For: '{search_term}' in '{self.lang}' language within the location radius of '{location_radius}' of Latitude and Longitude ({location_lat_long}) published after '{published_after}'")
@@ -196,8 +194,7 @@ class Pytube:
             published_after (str, optional): Indicates that the response should only contain resources created at or after the specified time. Defaults to "2010-01-01T00:00:00Z".
 
         Returns:
-            returns: List of Dictionaries, with 'Channel_ID' and ''Channel_Title' of the Videos in the specified region. 
-            _type_: List
+            list: List of Dictionaries, with 'Channel_ID' and ''Channel_Title' of the Videos in the specified region. 
         """
         
         print(f"Searching For: '{search_term}' in '{self.lang}' language within the region of ({self.region_code}) published after '{published_after}'")
@@ -408,7 +405,7 @@ class Pytube:
             playlist_ids (list): list of playlist ids
 
         Returns:
-            list_: list of dictionaries with channel_id, channel_title,  video_title, video_id
+            list: list of dictionaries with channel_id, channel_title,  video_title, video_id
         """
         try:
             _responseLst = []
@@ -466,7 +463,7 @@ class Pytube:
             videoIds (List): list of youtube's video IDs
 
         Returns:
-            _type_: list of dictionaries with Title, Description, Published_Date, Likes, Favorite_Count, Comments_Count etc
+            list: list of dictionaries with Title, Description, Published_Date, Likes, Favorite_Count, Comments_Count etc
         """
         try:
             video_stats = {}

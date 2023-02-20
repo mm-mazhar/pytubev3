@@ -2,14 +2,19 @@
 
 
 <div align="center">
-  
-  <a href="">![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=plastic&logo=Python)</a>
-  <a href="">![text](https://img.shields.io/badge/PyPI-3775A9?style=plastic&logo=PyPI)</a>
-
+  <a href="">![text](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=Python)</a>
+  <a href="">![PyPI - Wheel](https://img.shields.io/pypi/wheel/pytubev3?style=for-the-badge)</a>
+  <a href="#">![PyPI - Downloads](https://img.shields.io/pypi/dm/pytubev3?style=for-the-badge)</a>
+  <a href="#">![PyPI - License](https://img.shields.io/pypi/l/pytubev3?style=for-the-badge)</a>
+  <a href="#">![Read the Docs](https://img.shields.io/readthedocs/pytubev3?style=for-the-badge)</a>
 </div>
 
+<div align="center">
+	<a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=for-the-badge)</a>
+  	<a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
+  	<a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)</a>
+</div>
 
-### DESCRIPTION
 
 A wrapper around youtube API v3: _pytubev3_ is a genuine, lightweight, dependency-free Python library to simplify Youtube Data API tasks.
 -   [https://developers.google.com/youtube/v3/docs/](https://developers.google.com/youtube/v3/docs/)
