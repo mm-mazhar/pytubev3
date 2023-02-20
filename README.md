@@ -13,7 +13,7 @@
 
 <div align="center">
 
-  <a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=for-the-badge></a>
+  <a href="https://pypi.org/project/pytubev3/">![PyPI](https://img.shields.io/pypi/v/pytubev3?style=for-the-badge)</a>
   <a href="https://github.com/mm-mazhar/pytubev3">![text](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub)</a>
   <a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)</a>
 
