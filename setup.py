@@ -24,7 +24,7 @@ setup(
     #long_description = "Python Wrapper of Youtube API",
     long_description = long_Description,
     long_description_content_type = "text/markdown",
-    python_requires = "3.7 or above",
+    python_requires = ">=3.7",
     include_package_data = True,
     packages = find_packages(),
     install_requires = ["google_api_python_client==2.73.0", 
