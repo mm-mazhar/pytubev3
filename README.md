@@ -11,7 +11,13 @@
 <a href="EnterReadthedocs link">![text](https://img.shields.io/badge/View-Documentation-blue?style=flat-square)</a>
 </p>
 
+<div align="center">
 
+  <a href="">![example1](https://img.shields.io/badge/example-one-red)</a>
+  <a href="">![example2](https://img.shields.io/badge/example-two-green)</a>
+  <a href="">![example3](https://img.shields.io/badge/example-three-blue)</a>
+
+</div>
 
 A wrapper around youtube API v3: _pytubev3_ is a genuine, lightweight, dependency-free Python library to simplify Youtube Data API tasks.
 -   [https://developers.google.com/youtube/v3/docs/](https://developers.google.com/youtube/v3/docs/)
