@@ -14,7 +14,7 @@ setup(
     author_email = "mazqoty.01@gmail.com",
     maintainer = "Mazhar",
     maintainer_email = "mazqoty.01@gmail.com",
-    version = "1.1.0",
+    version = "1.1.1",
     url = "https://github.com/mm-mazhar/pytubev3.git",
     download_url = "https://github.com/mm-mazhar/pytubev3.git",
     project_urls = {"Bug Tracker": "https://github.com/mm-mazhar/pytubev3/issues"},
@@ -24,7 +24,7 @@ setup(
     #long_description = "Python Wrapper of Youtube API",
     long_description = long_Description,
     long_description_content_type = "text/markdown",
-    python_requires = ">=3.7",
+    python_requires = "3.7 or above",
     include_package_data = True,
     packages = find_packages(),
     install_requires = ["google_api_python_client==2.73.0", 
@@ -36,7 +36,7 @@ setup(
         "Intended Audience :: Developers",
         "License :: OSI Approved :: BSD License",
         "Operating System :: POSIX :: Linux",
-        "Programming Language :: Python :: 3",
+        "Programming Language :: Python",
     ],
     # entry_points = {
     #     "console_scripts" : [

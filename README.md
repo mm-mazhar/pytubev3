@@ -120,4 +120,4 @@ print(videoDetails)
 6. Email me at `mazqoty.01@gmail.com` because I do not check those messages often.
 
 ## History
-* 1.1.0 - Initial Commit without tests 
+* 1.1.1 - Initial Commit without tests 

@@ -7,7 +7,7 @@ __Lisence__ = "BSD"
 __maintainer__ = "Mazhar"
 __email__ = "mazqoty.01@gmail.com"
 __status__ = "Production"
-__version__ = "1.0"
+__version__ = "1.1.1"
 
 #Default Python Packages
 import os, re, copy, warnings
